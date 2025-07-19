@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/thutorpy/__init__.py
+src/thutorpy/core.py
+src/thutorpy/main.py
+src/thutorpy.egg-info/PKG-INFO
+src/thutorpy.egg-info/SOURCES.txt
+src/thutorpy.egg-info/dependency_links.txt
+src/thutorpy.egg-info/entry_points.txt
+src/thutorpy.egg-info/top_level.txt
