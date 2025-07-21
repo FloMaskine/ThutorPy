@@ -1,2 +1,3 @@
 [console_scripts]
 thutorpy = thutorpy.main:main
+thutorpy-configure = thutorpy.config:configure
